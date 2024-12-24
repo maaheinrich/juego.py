@@ -1,5 +1,5 @@
 BANG! Card Game - Role Assignment
-This is a Python implementation of the popular card game BANG! where players are randomly assigned roles. Depending on the number of players, each participant is given a unique role such as Sheriff, Renegade, Outlaw, or Bailliff. The roles are shuffled and assigned privately, ensuring a fun and unpredictable game experience.
+This is a Python implementation of the popular card game BANG! where players are randomly assigned roles. Depending on the number of players, each participant is given a unique role such as Sheriff, Renegade, Outlaw, or Bailliff. The roles are shuffled and assigned privately.
 
 Features:
 
@@ -33,6 +33,3 @@ Key Features:
 -Shuffling roles: The roles are shuffled randomly each time the game is played to ensure variety.
 -Role assignment: Based on the number of players, roles are assigned dynamically.
 -Private role reveal: Each player sees their role privately, preventing anyone from knowing other players' roles until the game starts.
-
-License
-This project is open source and available under the MIT License.
